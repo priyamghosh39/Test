@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="D:/Automation/Selenium Cucumber JARS/Selenium Cucumber JARS/poi-3.9-20121203.jar"/>
+	<classpathentry kind="lib" path="D:/Automation/Selenium Cucumber JARS/Selenium Cucumber JARS/poi-examples-3.9-20121203.jar"/>
+	<classpathentry kind="lib" path="D:/Automation/Selenium Cucumber JARS/Selenium Cucumber JARS/poi-excelant-3.9-20121203.jar"/>
+	<classpathentry kind="lib" path="D:/Automation/Selenium Cucumber JARS/Selenium Cucumber JARS/poi-ooxml-3.9-20121203.jar"/>
+	<classpathentry kind="lib" path="D:/Automation/Selenium Cucumber JARS/Selenium Cucumber JARS/poi-ooxml-schemas-3.9-20121203.jar"/>
+	<classpathentry kind="lib" path="D:/Automation/Selenium Cucumber JARS/Selenium Cucumber JARS/selenium-java-2.44.0.jar"/>
+	<classpathentry kind="lib" path="D:/Automation/Selenium Cucumber JARS/Selenium Cucumber JARS/selenium-server-standalone-2.44.0.jar"/>
+	<classpathentry kind="lib" path="D:/Automation/Selenium Cucumber JARS/Selenium Cucumber JARS/Cucumber/cucumber-core-1.1.2.jar"/>
+	<classpathentry kind="lib" path="D:/Automation/Selenium Cucumber JARS/Selenium Cucumber JARS/Cucumber/cucumber-java-1.1.2.jar"/>
+	<classpathentry kind="lib" path="D:/Automation/Selenium Cucumber JARS/Selenium Cucumber JARS/Cucumber/cucumber-junit-1.1.2.jar"/>
+	<classpathentry kind="lib" path="D:/Automation/Selenium Cucumber JARS/Selenium Cucumber JARS/Cucumber/cucumber-reporting-0.1.0.jar"/>
+	<classpathentry kind="lib" path="D:/Automation/Selenium Cucumber JARS/Selenium Cucumber JARS/Cucumber/gherkin-2.12.1.jar"/>
+	<classpathentry kind="lib" path="D:/Automation/Selenium Cucumber JARS/Selenium Cucumber JARS/Cucumber/gherkin-jvm-deps-1.0.3.jar"/>
+	<classpathentry kind="lib" path="D:/Automation/Selenium Cucumber JARS/Selenium Cucumber JARS/Cucumber/mockito-all-2.0.2-beta.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium Server Standalone 2.53.1/selenium-server-standalone-2.53.1.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
